@@ -63,7 +63,7 @@
       <br/><br/>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,aws,azure,terraform,docker,kubernetes,mysql,postgresql,mongodb,kafka,git,github,gitlab,visualstudio,hadoop&theme=light" />
+          <img src="https://skillicons.dev/icons?i=python,aws,azure,terraform,docker,kubernetes,mysql,postgresql,mongodb,kafka,git,github,linux,ubuntu,java,gitlab,visualstudio,php&theme=light" />
         </a>
       </p>
     </td>

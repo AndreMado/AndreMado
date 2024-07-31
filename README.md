@@ -149,30 +149,30 @@
 
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-400%90%20hrs%2055%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20thousand%20lines%20of%20code-blue)
 
 
 **🐱 My Github Data** 
 
-> 🏆 590 Contributions in the Year 2023
+> 🏆 23 Contributions in the Year 2024
  > 
-> 📦 9.1 MB Used in Github's Storage 
+> 📦 0.1 MB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
+> 💼 Open to Hire
  > 
-> 📜 82 Public Repositories 
+> 📜 3 Public Repositories 
  > 
-> 🔑 124 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-🌆 Daytime    274 commits    ██████░░░░░░░░░░░░░░░░░░░   27.16% 
-🌃 Evening    396 commits    █████████░░░░░░░░░░░░░░░░   39.25% 
-🌙 Night      246 commits    ██████░░░░░░░░░░░░░░░░░░░   24.38%
+🌞 Morning    3  commits    ████░░░░░░░░░░░░░░░░░░░░░   13.04% 
+🌆 Daytime    4  commits    █████░░░░░░░░░░░░░░░░░░░░   17.03% 
+🌃 Evening    6  commits    ████████░░░░░░░░░░░░░░░░░   26.08% 
+🌙 Night      10 commits    ████████████░░░░░░░░░░░░░   43.47%
 
 ```
 
@@ -183,21 +183,16 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Cloud DevOps Engineer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Present |
-| Web Developer Intern | [Grivaa Capital](https://www.linkedin.com/company/grivaa-capital/) | Jul 2021 - Sep 2021 |
+| Cloud Trainee | [B-More](https://www.linkedin.com/company/b-more-tech/) | Jun 2024 - Present |
+| Web Developer Intern | [IDN Consultores](https://www.facebook.com/idnconsultores?mibextid=kFxxJD) | Jan 2024 - Jun 2024 |
 
 
 
 
 
- Last Updated on 20/04/2024
+ Last Updated on 31/07/2024
 <!--END_SECTION:waka-->
 
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
 
 #
 
@@ -206,13 +201,13 @@
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/JayantGoel001/AndreMado/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
+  <a href="https://www.linkedin.com/in/andres-alfredo-maldonado-cortazar-8309b5205/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
   
@@ -228,11 +223,6 @@
 <br/>
 <br/>
 
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
 
 
 <div align="center">

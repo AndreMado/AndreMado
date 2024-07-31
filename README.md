@@ -99,7 +99,7 @@
 <br>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AndreMado&theme=react-dark&hide_border=true&area=true)
 
 
 <h4 align="center">
@@ -114,15 +114,15 @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
 @@     | |"| |                                         @@
 @@     ( ) ( )   Testing leads to failure              @@
 @@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
+@@ _.-' _j L_ '-._     Glad to be the biggest failer   @@
+@@(___.'     '.___)         around the world.          @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
@@ -184,9 +184,6 @@
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 | Cloud DevOps Engineer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Present |
-| Open source mentor | [GSsoC](https://gssoc.girlscript.tech/) | Mar 2022 - May 2022 |
-| Open source mentor | [SWOC](https://swoc.scriptindia.org/) | Nov 2021 - Feb 2022 |
-| Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
 | Web Developer Intern | [Grivaa Capital](https://www.linkedin.com/company/grivaa-capital/) | Jul 2021 - Sep 2021 |
 
 
@@ -219,7 +216,7 @@
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
   
-  <a href="https://www.instagram.com/GovindSingh9447/" target="_blank">
+  <a href="https://www.instagram.com/madmaado/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
   </a>
     
@@ -240,7 +237,7 @@
 
 <div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+### Thanks ❤️ and come back soon!
 
 </div>
 
